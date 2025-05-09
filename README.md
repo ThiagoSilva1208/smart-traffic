@@ -14,6 +14,6 @@ O projeto visa mitigar o problema dos grandes congestionamentos, implementando a
     3. Yago Rocchetti
        
 - Contato (email):
-    1. 
+    1. nicolas.rodriguesz0401@gmail.com
     2. thiagosouzadasilva143@gmail.com
     3. 
