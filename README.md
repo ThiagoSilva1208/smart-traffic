@@ -16,4 +16,4 @@ O projeto visa mitigar o problema dos grandes congestionamentos, implementando a
 - Contato (email):
     1. nicolas.rodriguesz0401@gmail.com
     2. thiagosouzadasilva143@gmail.com
-    3. 
+    3. yagorocchetti@gmail.com
