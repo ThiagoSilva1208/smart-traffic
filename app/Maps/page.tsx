@@ -1,8 +1,13 @@
 "use client"
 
+import dynamic from "next/dynamic";
 import { Navbar } from "../components/navbar"
 import { Footer } from "../components/footer"
-import Map from "../Maps/map"
+
+const Map = dynamic(() => import("../Maps/map"), {
+  ssr: false, 
+});
+
 
 
 export default function Maps() {
