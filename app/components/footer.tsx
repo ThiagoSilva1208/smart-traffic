@@ -13,11 +13,11 @@ export function Footer(){
                 <div>
                     <h3 className="text-white text-lg font-semibold mb-3 ">Navegue</h3>
                     <ul className="space-y-2">
-                        <li><a href="" className="hover:text-blue-400 transition">Início</a></li>
-                        <li><a href="" className="hover:text-blue-400 transition">Sobre Nós</a></li>
-                        <li><a href="" className="hover:text-blue-400 transition">Rede de Semáforos</a></li>
-                        <li><a href="" className="hover:text-blue-400 transition">Login</a></li>
-                        <li><a href="" className="hover:text-blue-400 transition">Polítíca de privacidade </a></li>
+                        <li><a href="/" className="hover:text-blue-400 transition">Início</a></li>
+                        <li><a href="/" className="hover:text-blue-400 transition">Sobre Nós</a></li>
+                        <li><a href="/Maps" className="hover:text-blue-400 transition">Rede de Semáforos</a></li>
+                        <li><a href="/Login" className="hover:text-blue-400 transition">Login</a></li>
+                        <li><a href="/" className="hover:text-blue-400 transition">Polítíca de privacidade </a></li>
                     </ul>
                     
                 </div>
@@ -25,7 +25,7 @@ export function Footer(){
                 <div>
                     <h3 className="text-white text-lg font-semibold mb-3 ">Contate-nos</h3>
                     <ul className="space-y-2 md:flex md:flex-col">  
-                        <li><a href="" className="fas fa-envelope text-blue-400 mr-2">Formulário</a></li>
+                        <li><a href="/" className="fas fa-envelope text-blue-400 mr-2">Formulário</a></li>
                         <li><a href="" className="fas fa-envelope text-blue-400 mr-2">suporte@smarttraffic.com</a></li>
                         <li><a href="" className="fas fa-phone text-blue-400 mr-2">+55 19 98814-5641</a></li>
                         <li><a href="" className="fas fa-marker text-blue-400 mr-2">Americana, São Paulo, Brasil</a></li>

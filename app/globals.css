@@ -24,3 +24,12 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+.maplibregl-canvas {
+  position: absolute !important;
+}
+
+.maplibregl-marker {
+  z-index: 1 !important;
+  position: relative !important;
+}
