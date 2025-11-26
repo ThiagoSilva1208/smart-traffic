@@ -1,7 +1,7 @@
 "use client"
 
 import  MapDashboard from "../Dashboards/MapDashboard"
-import { Map, Marker, Popup } from "react-map-gl/maplibre"
+import { Map, Marker } from "react-map-gl/maplibre"
 import { useState } from "react"
 
 export default function MapComponent() {
