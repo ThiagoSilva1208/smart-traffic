@@ -6,7 +6,6 @@ export function Features(){
 
                 <div className="flex items-center justify-between mb-20 gap-10 text-left max-md:flex-col max-md:items-center max-md:text-center">
                     <div className="w-full max-w-96 rounded-xl max-md:max-w-96">
-                        <img src="" alt="Login" className="max-md:hidden" />
                     </div>
                     <div className="flex-1">
                         <span className="inline-block bg-[#2563eb] text-[#ffffff] font-bold text-2xl w-10 h-10 rounded-full text-center leading-10 mb-2.5">1</span>
@@ -19,7 +18,6 @@ export function Features(){
 
                 <div className="flex items-center justify-between mb-20 gap-10 text-left max-md:flex-col max-md:items-center max-md:text-center">
                     <div className="w-full max-w-96 rounded-xl">
-                        <img src="" alt="Signals rede" className="max-md:hidden"/>
                     </div>
                     <div className="flex-1">
                         <span className="inline-block bg-[#2563eb] text-[#ffffff] font-bold text-2xl w-10 h-10 rounded-full text-center leading-10 mb-2.5">2</span>
@@ -32,7 +30,6 @@ export function Features(){
 
                 <div className="flex items-center justify-between mb-20 gap-10 text-left max-md:flex-col max-md:items-center max-md:text-center">
                     <div className="w-full max-w-96 rounded-xl">
-                        <img src="" alt="Relatório" className="max-md:hidden"/>
                     </div>
                     <div className="flex-1">
                         <span className="inline-block bg-[#2563eb] text-[#ffffff] font-bold text-2xl w-10 h-10 rounded-full text-center leading-10 mb-2.5">3</span>

@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   title: "Smart Traffic",
   description: "The next generation of transit!",
   icons:{
-    icon: "/favion-16x16.png",
+    icon: "/favicon-32x32.png",
   }
 };
 
